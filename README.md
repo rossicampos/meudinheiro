@@ -1,0 +1,2 @@
+# meudinheiro
+Gerenciador financeiro pessoal
